@@ -132,6 +132,6 @@ Throughout the development process, I've extensively utilized renowned libraries
 - Once both the Django and React development servers are running, you can access the application by navigating to http://localhost:3000 in your web browser.
 
 ## Demo
-Youtube demo link -> [https://www.youtube.com/watch?v=cGjGTcQlJ7U](https://www.youtube.com/watch?v=cGjGTcQlJ7U)
+Youtube demo link -> [https://www.youtube.com/watch?v=bFJUdcwlHCQ](https://www.youtube.com/watch?v=bFJUdcwlHCQ)
 
 
